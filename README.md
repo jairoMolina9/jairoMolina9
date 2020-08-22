@@ -1,4 +1,4 @@
-<h2> 𝙷𝚎𝚕𝚕𝚘, 𝙷𝚘𝚕𝚊 𝙸'𝚖 𝙹𝚊𝚒𝚛𝚘! <img src="https://media.giphy.com/media/IdsXp5P7AYebfOAgkj/giphy.gif" width="50"></h2>
+<h2> 𝙷𝚎𝚕𝚕𝚘, 𝙷𝚘𝚕𝚊 𝙸'𝚖 𝙹𝚊𝚒𝚛𝚘! <img src="https://media.giphy.com/media/Titt7WbFzurny/giphy.gif" width="50"></h2>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝙳𝚒𝚜𝚌𝚘𝚛𝚍 𝙱𝚘𝚝 - 𝙵𝚕𝚊𝚖𝚎][repo]
 - 🎓 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚊 𝚂𝚎𝚗𝚒𝚘𝚛 @ [𝚀𝚞𝚎𝚎𝚗𝚜 𝙲𝚘𝚕𝚕𝚎𝚐𝚎][school]
@@ -34,11 +34,11 @@
 <h2 align = "center"> <img src="https://media.giphy.com/media/dUTLSJax7LCr3LFGON/giphy.gif" width="30"> This Profile contains </h2>
 
 <p align = "center">
-  🚀 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 -> <a href="https://yaytext.com/monospace/">𝚈𝙰𝚈 𝚃𝚎𝚡𝚝 🚀</a>
+  🚀 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 -> <a href="https://yaytext.com/monospace/">𝚈𝙰𝚈 𝚃𝚎𝚡𝚝</a> 🚀
   <br>
-  🌑 𝚂𝚑𝚒𝚎𝚕𝚍𝚜 𝚏𝚛𝚘𝚖 -> <a href="https://shields.io/">𝚂𝚑𝚒𝚎𝚕𝚍𝚜 🌑</a>
+  🌑 𝚂𝚑𝚒𝚎𝚕𝚍𝚜 𝚏𝚛𝚘𝚖 -> <a href="https://shields.io/">𝚂𝚑𝚒𝚎𝚕𝚍𝚜</a> 🌑
   <br>
-  🌟 𝚂𝚝𝚊𝚝𝚜 𝚏𝚛𝚘𝚖 -> <a href="https://github.com/anuraghazra/github-readme-stats">𝚊𝚗𝚞𝚛𝚊𝚐𝚑𝚊𝚣𝚛𝚊 🌟 </a>
+  🌟 𝚂𝚝𝚊𝚝𝚜 𝚏𝚛𝚘𝚖 -> <a href="https://github.com/anuraghazra/github-readme-stats">𝚊𝚗𝚞𝚛𝚊𝚐𝚑𝚊𝚣𝚛𝚊</a> 🌟
 </p>
 
 [website]: https://www.jmolina.tech/
