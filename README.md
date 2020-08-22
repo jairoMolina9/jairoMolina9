@@ -13,32 +13,30 @@
 
 <br>
 
-<h2> <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="25"> 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 </h2>
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  <br>
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+<h2 align = "right"> <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="25"> 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 </h2>
+<img align="right" alt="C++" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="right" alt="Java" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="right" alt="PHP" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="right" alt="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+
 <br>
 
-<h2> <img src="https://media.giphy.com/media/9oHZQ2gEez8ti/giphy.gif" width="25"> 𝙼𝚢 𝚂𝚝𝚊𝚝𝚜 </h2>
+<h2 align="left"> <img src="https://media.giphy.com/media/9oHZQ2gEez8ti/giphy.gif" width="25"> 𝙼𝚢 𝚂𝚝𝚊𝚝𝚜 </h2>
 <img align="center" alt="jmolina's Github Stats" src="https://github-readme-stats.jairomolina9.vercel.app/api?username=jairoMolina9&show_icons=true&hide_border=true&theme=dark"/>
 
 <br>
 
-<h2> <img src="https://media.giphy.com/media/dUTLSJax7LCr3LFGON/giphy.gif" width="30"> This Profile contains </h2>
+<h2 align = "center"> <img src="https://media.giphy.com/media/dUTLSJax7LCr3LFGON/giphy.gif" width="30"> This Profile contains </h2>
 
-- 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 [YAYtext][font]
-- 𝚂𝚑𝚒𝚎𝚕𝚍𝚜 𝚏𝚛𝚘𝚖 [Shields][shields]
-- 𝚂𝚝𝚊𝚝𝚜 𝚏𝚛𝚘𝚖 [Anuraghazra][stats]
+<p align = "center">
+  🚀 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 -> <a href="https://yaytext.com/monospace/">𝚈𝙰𝚈 𝚃𝚎𝚡𝚝 🚀</a>
+  <br>
+  🌑 𝚂𝚑𝚒𝚎𝚕𝚍𝚜 𝚏𝚛𝚘𝚖 -> <a href="https://shields.io/">𝚂𝚑𝚒𝚎𝚕𝚍𝚜 🌑</a>
+  <br>
+  🌟 𝚂𝚝𝚊𝚝𝚜 𝚏𝚛𝚘𝚖 -> <a href="https://github.com/anuraghazra/github-readme-stats">𝚊𝚗𝚞𝚛𝚊𝚐𝚑𝚊𝚣𝚛𝚊 🌟 </a>
+</p>
 
-[font]: https://yaytext.com/monospace/
-[shields]: https://shields.io/
-[stats]: https://github.com/anuraghazra/github-readme-stats
 [website]: https://www.jmolina.tech/
 [repo]: https://github.com/jairoMolina9/flame-bot
 [school]: https://www.qc.cuny.edu/Pages/home.aspx
