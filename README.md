@@ -1,4 +1,4 @@
-<h2> 𝙷𝚎𝚕𝚕𝚘, 𝙷𝚘𝚕𝚊 𝙸'𝚖 𝙹𝚊𝚒𝚛𝚘! <img src="https://media.giphy.com/media/ImQNXLDLggZG0/giphy.gif" width="50"></h2>
+<h2> 𝙷𝚎𝚕𝚕𝚘, 𝙷𝚘𝚕𝚊 𝙸'𝚖 𝙹𝚊𝚒𝚛𝚘! <img src="https://media.giphy.com/media/IdsXp5P7AYebfOAgkj/giphy.gif" width="50"></h2>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝙳𝚒𝚜𝚌𝚘𝚛𝚍 𝙱𝚘𝚝 - 𝙵𝚕𝚊𝚖𝚎][repo]
 - 🎓 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚊 𝚂𝚎𝚗𝚒𝚘𝚛 @ [𝚀𝚞𝚎𝚎𝚗𝚜 𝙲𝚘𝚕𝚕𝚎𝚐𝚎][school]
