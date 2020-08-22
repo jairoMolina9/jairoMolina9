@@ -7,7 +7,7 @@
 
 <br>
 
-[![Site: jmolina](https://img.shields.io/website?style=for-the-badge&up_color=black&up_message=online&url=https%3A%2F%2Fwww.jmolina.tech%2F)](https://www.jmolina.tech/)
+[![Site: jmolina](https://img.shields.io/badge/JMolina-Devpost-black?style=for-the-badge&up_color=black&up_message=devpost&url=https://devpost.com/JairoMolina?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)](https://devpost.com/JairoMolina?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 [![Linkedin: jairomolina](https://img.shields.io/badge/-jairomolina-blue?style=for-the-badge&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/andres-molina-a0574714b/)](https://www.linkedin.com/in/andres-molina-a0574714b/)
 [![GitHub jairoMolina](https://img.shields.io/github/followers/jairoMolina9?label=follow&color=black&style=for-the-badge&logo=github)](https://github.com/jairoMolina9)
 
