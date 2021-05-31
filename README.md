@@ -1,6 +1,6 @@
 <h2> 𝙷𝚎𝚕𝚕𝚘, 𝙷𝚘𝚕𝚊 𝙸'𝚖 𝙹𝚊𝚒𝚛𝚘! <img src="https://media.giphy.com/media/Titt7WbFzurny/giphy.gif" width="80"></h2>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Last Semester of College!
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 a new Web Application!
 - 🎓 𝙸 just graduated from [𝚀𝚞𝚎𝚎𝚗𝚜 𝙲𝚘𝚕𝚕𝚎𝚐𝚎][school]
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚠𝚒𝚝𝚑 𝚊𝚗𝚢𝚘𝚗𝚎
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝙸 𝚑𝚊𝚟𝚎 𝚕𝚒𝚟𝚎𝚍 𝚒𝚗 𝟹 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚌𝚘𝚗𝚝𝚒𝚗𝚎𝚗𝚝𝚜 🌎
